@@ -1,3 +1,21 @@
+# React Weather Dashboard
+
+This React app displays a weather dashboard with dynamic features. Users can view weather data for over 70 cities, including temperature, city name, and weather conditions. It allows for adding and viewing favorite cities and supports toggling between Celsius and Fahrenheit units.
+
+## Key Features
+
+- **Live Search**: Search by city name, temperature, or description.
+- **Favorites**: Add and view favorite cities.
+- **Unit Conversion**: Switch between Celsius and Fahrenheit.
+
+## Running the App
+
+After cloning the repo, run `yarn start` in the project directory to launch the app in development mode. Visit [http://localhost:3000](http://localhost:3000) to view it in the browser. The app auto-reloads for edits and displays lint errors in the console.
+
+Use `yarn test` for testing, `yarn build` for production builds, and `yarn eject` for advanced configuration options.
+
+Learn more about React and Create React App in the official documentation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

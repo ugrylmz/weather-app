@@ -1,0 +1,28 @@
+/* Favorites.css */
+
+.favorites-section {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .favorites-section h2 {
+    margin-bottom: 15px;
+  }
+  
+  .favorites-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .favorites-section li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .favorites-section li:last-child {
+    border-bottom: none;
+  }
+  

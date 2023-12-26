@@ -1,0 +1,22 @@
+/* WeatherCard.css */
+
+.weather-card {
+    transition: background-color 0.3s ease;
+  }
+  
+  .weather-card:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .weather-card td {
+    padding: 8px 12px;
+    text-align: center; 
+    vertical-align: middle; 
+  }
+  
+
+  .weather-card td:first-child {
+    text-align: left;
+    font-weight: bold;
+  }
+  
