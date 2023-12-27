@@ -1,9 +1,9 @@
-// Dashboard.js or Dashboard.tsx if using TypeScript
+
 import { useState } from 'react';
 import SearchBar from '../components/SearchBar';
 import WeatherList from '../components/WeatherList';
 import Favorites from '../components/Favorites';
-import './Dashboard.css'; // Make sure to create a corresponding CSS file
+import './Dashboard.css'; 
 import { mockWeatherData, WeatherData } from '../data/weatherData';
 
 function Dashboard() {
