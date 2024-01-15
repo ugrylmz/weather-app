@@ -7,6 +7,7 @@ interface WeatherCardProps extends WeatherData {
     removeFromFavorites: (cityId: number) => void;
     isFavorite: boolean; // New prop to determine if the city is a favorite
     isCelsius: boolean;
+    orderId: any;
   }
 
 const WeatherCard = ({
